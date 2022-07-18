@@ -1,7 +1,7 @@
 # WeatherOnMap-MVVM
 ## WeatherOnMap is an ios app that shows you weather forecast according to the place that you've long pressed on the map.
 ## It also displays animation that is related to the weather info.
-- App was developed based on MVVM architecture.
+- App was developed based on MVVM architecture and UIKit framework was used.
 - OpenWeatherMap api is used to fetch weather info for the given location lat and lon values.
 - To run the project, you must have your own api-key that is given by OpenWeatherMap freely.
 - But first you must sign up from this link : https://home.openweathermap.org/users/sign_up
